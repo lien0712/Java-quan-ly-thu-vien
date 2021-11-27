@@ -1,0 +1,32 @@
+Tạo một lớp đối tượng book gồm các thuộc tính : tên sách, tác giả, giá bán, ngày xuất bản, nhà sản xuất.
+
+- Viết hàm tạo và getter/setter
+
+- Viết hàm nhập và hàm hiển thị
+
+Trong lớp Main tạo một List{Book} bookList -} để quản lý sách nhập vào
+
+Xây dựng menu trương trình như sau
+
+1. Nhập thông tin N quấn sách
+
+2. Hiển thị thông tin sách
+
+3. Sắp xếp theo tên tác giả
+
+4. Lưu thông tin sách vào file data.obj
+
+5. Lưu thông tin mỗi quyển sách vào file data.txt theo định dạng (ten sách, tác giả, giá bán, ngày xuất bản, nhà xuất bản) mỗi quyển sách trên một dòng
+
+Ví dụ :
+
+lap trinh c, quách tuấn ngọc, 20000, 06-06-1999, Kim Đồng
+
+
+lap trinh PHP, quách tuấn ngọc, 20000, 06-06-1999, Kim Đồng
+
+6. Nén file data.txt thành file data.dfl
+
+7. Đọc dữ liệu từ file data.obj và hiển thị ra màn hình
+
+8. Thoát
